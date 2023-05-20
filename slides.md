@@ -1,8 +1,7 @@
 ---
 theme: seriph
-background: /assets/images/bg1.webp
+background: https://vip2.loli.io/2023/05/20/ln52aqruZtA1DR3.webp
 class: 'text-center'
-lineNumbers: false
 info: |
   ## Design and Implementation of a Personal Blogging System Based on Next.js
   Presentation slides for 2023 NJXZC graduation.
