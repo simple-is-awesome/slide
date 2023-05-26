@@ -27,20 +27,6 @@ hide: false
 ---
 
 ---
-layout: two-cols
-transition: slide-up
-level: 2
-src: ./pages/techstack.md
-hide: false
----
-
----
-layout: two-cols
-src: ./pages/features.md
-hide: false
----
-
----
 src: ./pages/detaileddesign.md
 hide: false
 ---
@@ -50,6 +36,20 @@ class: px-20
 src: ./pages/architecture.md
 hide: false
 layout: center
+---
+
+---
+layout: two-cols
+src: ./pages/features.md
+hide: false
+---
+
+---
+layout: two-cols
+transition: slide-up
+level: 2
+src: ./pages/techstack.md
+hide: true
 ---
 
 ---
@@ -85,9 +85,5 @@ class: text-center
 src: ./pages/byenjxzc.md
 layout: image-right
 image: https://vip2.loli.io/2023/05/16/y8ClMeaTLZGofgJ.webp
+hide: true
 ---
-
----
-layout: end
----
-

@@ -2,23 +2,23 @@
 
 <div class="text-sm">
 
-- <mdi-home />首页功能
+<mdi-home />首页功能
 
-    - 查看文章列表
+  - 查看文章列表
 
-    - 搜索文章
+  - 搜索文章
 
-    - 浏览近期文章
+  - 浏览近期文章
 
-    - 浏览Inoreader广播
+  - 浏览Inoreader广播
 
-    - 浏览Raindrop书签分享
+  - 浏览Raindrop书签分享
 
-    - 根据标签筛选文章
+  - 根据标签筛选文章
 
-    - 返回页面顶部
+  - 返回页面顶部
 
-    - 分页器限制每一页文章列表的条目数
+  - 分页器限制每一页文章列表的条目数
 
 </div>
 
@@ -26,13 +26,19 @@
 
 <div class="text-sm">
 
-- <mdi-Post />文章页功能
+<mdi-Post />文章页功能
 
-    - 查看文章目录（通过showtoc参数控制）
+  - 查看文章目录（通过showtoc参数控制）
 
-    - 使用ChatGPT<logos-openai-icon />总结文章摘要
+  - 使用ChatGPT<logos-openai-icon />总结文章摘要
 
-    - 评论文章/回复评论，存在子评论，则其所有父评论均会收到邮件提醒
+  - 评论文章/回复评论，存在子评论，则其所有父评论均会收到邮件提醒
+
+
+<mdi-DotsHorizontal />其余功能
+
+<br/>
+<br/>
 
 - <mdi-ImageArea />画廊展示图片
 

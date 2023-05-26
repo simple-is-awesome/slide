@@ -1,6 +1,5 @@
 ## Reasons and Background
 
-
 1.1、Why I need to build a blog system from scratch?
 
 - 国内博客平台的拉跨。（广告......）
@@ -15,7 +14,7 @@
 
 ::right::
 
-1.2、Background(题外话—从Hugo到Next.js)
+1.2、Background(题外话—从[Hugo](https://github.com/simple-is-awesome/Hugo-Theme-Simple)到Next.js)
 
 - <logos-wordpress class="w-12 mx-auto" />依旧在建站群体里面受欢迎程度很高。（占据全球市场份额接近40%）
 
